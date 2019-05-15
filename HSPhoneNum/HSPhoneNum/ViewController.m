@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"测试git提交");
+    
+    NSLog(@"不同电脑 测试git提交");
 }
 
 
